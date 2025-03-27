@@ -140,7 +140,12 @@ This project is licensed under the Pi-Lab License 1.0 - see the [LICENSE](https:
 If you find our repo useful for your research, please consider citing our paper:
 
 ```bibtex
-Comming soon
+@Article{fu2025iterative,
+title={Iterative Predictor-Critic Code Decoding for Real-World Image Dehazing},
+author={Fu, Jiayi and Liu, Siyu and Liu, Zikun and Guo, Chun-Le and Park, Hyunhee and Wu, Ruiqi and Wang, Guoqing and Li, Chongyi},
+journal={arXiv preprint arXiv:2503.13147},
+year={2025}
+}
 ```
 
 ## Contact
