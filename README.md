@@ -20,6 +20,7 @@ This is the official PyTorch codes for the paper:
 
 
 ## :runner: TODO
+- [x] Release the [Jittor version](https://github.com/hlh981029/IPC-Dehaze-Jittor)
 - [x] Release training code
 - [x] 发布论文的中文版 (Release the Chinese version of the paper)
 - [x] Release results and testing code. More visual results can be fonud in the the <a href='https://jiayi-fu.github.io/IPC-Dehaze_Homepage/'>project page</a>. 
